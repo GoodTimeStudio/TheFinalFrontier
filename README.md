@@ -1,7 +1,6 @@
 
 # 新·疆
 ## TheFinalFrontier
-===================
 
 ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
@@ -13,3 +12,5 @@
 ## 依赖版本
 * Java 16
 
+[未来展望]: 
+[交流群组]: http://jq.qq.com/?_wv=1027&k=eFGKeY
